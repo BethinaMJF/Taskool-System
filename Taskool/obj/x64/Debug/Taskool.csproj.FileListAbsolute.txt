@@ -1,0 +1,60 @@
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\Taskool.exe.config
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\Taskool.exe
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\Taskool.pdb
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.AssemblyReference.cache
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.Form1.resources
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.Properties.Resources.resources
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.GenerateResource.cache
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.CoreCompileInputs.cache
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.exe
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.pdb
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.Cadastro.resources
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\EntityFramework.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\EntityFramework.xml
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.Up2Date
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.Memory.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.Text.Json.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.Buffers.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.SuggestedBindingRedirects.cache
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.exe.config
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.ResolveComReference.cache
+C:\Users\olimp\source\repos\Taskool\Taskool\obj\x64\Debug\Taskool.Home.resources
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\Taskool.exe.config
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\Taskool.exe
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\Taskool.pdb
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\EntityFramework.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.Memory.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.Text.Json.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.Buffers.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\EntityFramework.xml
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.AssemblyReference.cache
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.SuggestedBindingRedirects.cache
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.exe.config
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Interop.WMPLib.dll
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.ResolveComReference.cache
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.Cadastro.resources
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.Form1.resources
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.Home.resources
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.Properties.Resources.resources
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.GenerateResource.cache
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.CoreCompileInputs.cache
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.csproj.Up2Date
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.exe
+C:\Users\olimp\Desktop\resoluções\Prova Seletiva Bethina\Taskool\Taskool\obj\x64\Debug\Taskool.pdb

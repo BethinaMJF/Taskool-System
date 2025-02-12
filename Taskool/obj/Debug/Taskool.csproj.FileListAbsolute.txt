@@ -1,0 +1,33 @@
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Taskool.exe.config
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Taskool.exe
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Taskool.pdb
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\EntityFramework.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.Memory.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.Text.Json.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.Buffers.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.ValueTuple.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\EntityFramework.xml
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.csproj.AssemblyReference.cache
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.csproj.SuggestedBindingRedirects.cache
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.exe.config
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Interop.WMPLib.dll
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.csproj.ResolveComReference.cache
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.Cadastro.resources
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.Form1.resources
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.Home.resources
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.Properties.Resources.resources
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.csproj.GenerateResource.cache
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.csproj.CoreCompileInputs.cache
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.csproj.Up2Date
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.exe
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.pdb
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Musicas\Bouncing Joy.mp3
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Musicas\Jungle Vibes.mp3
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Musicas\Reflection.mp3
