@@ -25,8 +25,7 @@
 
 #### 2️⃣  Configure o Banco de Dados
 - Execute o script.sql fornecido.
-- No **App.config** , edite o data source com seu servidor SQL Server.
-
+- No **App.config** , edite o Data Source para o endereço correto do seu servidor SQL Server, garantindo que a aplicação funcione corretamente.
 ``` 
 <connectionStrings>
 	<add name="TaskoolEntities" ... data source=SEU_SERVIDOR; ... />
