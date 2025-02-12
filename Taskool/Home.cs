@@ -51,10 +51,9 @@ namespace Taskool
             }
 
 
-           // string cam = File.ReadAllText(@"C:\Users\olimp\source\repos\Taskool\Taskool\json1.json");
-            string cam = File.ReadAllText(Directory.GetCurrentDirectory() + "\\json1.json");
+            string fraseAutor = File.ReadAllText(Directory.GetCurrentDirectory() + "\\json1.json");
 
-            var json = JsonSerializer.Deserialize<JsonElement[]>(cam);
+            var json = JsonSerializer.Deserialize<JsonElement[]>(fraseAutor);
             int index = new Random().Next(0, json.Length);
             label3.Text = json[index].GetProperty("mensagem").GetString();
             label4.Text = json[index].GetProperty("autor").GetString();
@@ -63,7 +62,8 @@ namespace Taskool
             playlist = player.newPlaylist("", "");
             player.currentPlaylist = playlist;
 
-            string[] musicas = Directory.GetFiles(@"C:\Users\olimp\source\repos\Taskool\Taskool\Musicas\", "*.mp3");
+            string[] musicas = Directory.GetFiles(Directory.GetCurrentDirectory() + "\\Musicas\\", "*.mp3");
+
             foreach (string x in musicas)
             {
                 playlist.appendItem(player.newMedia(x));
