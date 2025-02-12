@@ -51,7 +51,8 @@ namespace Taskool
             }
 
 
-            string cam = File.ReadAllText(@"C:\Users\olimp\source\repos\Taskool\Taskool\json1.json");
+           // string cam = File.ReadAllText(@"C:\Users\olimp\source\repos\Taskool\Taskool\json1.json");
+            string cam = File.ReadAllText(Directory.GetCurrentDirectory() + "\\json1.json");
 
             var json = JsonSerializer.Deserialize<JsonElement[]>(cam);
             int index = new Random().Next(0, json.Length);

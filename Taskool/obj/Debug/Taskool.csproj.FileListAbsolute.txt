@@ -31,3 +31,4 @@ C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\obj\Debug\Taskool.pdb
 C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Musicas\Bouncing Joy.mp3
 C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Musicas\Jungle Vibes.mp3
 C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\Musicas\Reflection.mp3
+C:\Users\olimp\Desktop\PROJETOS TERMINADOS\Taskool\Taskool\bin\Debug\json1.json
